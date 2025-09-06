@@ -1,0 +1,19 @@
+h1 {
+    color: cyan;
+    font-size: 20px;
+    font-weight: normal;
+    direction: ltr;
+    text-decoration: underline;
+    word-spacing: 10px;
+}
+
+h2 {
+    text-shadow: 2px 2px 5px green;
+}
+
+p {
+    color: blueviolet;
+    font-size: 10px;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+}

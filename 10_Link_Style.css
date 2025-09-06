@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: #fab1a0;
+    color: purple;
+    padding: 25px;
+    border-radius: 25px;
+    display: inline-block;
+}
+
+a:link{
+    color: red;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:visited{
+    color: green;
+}

@@ -1,0 +1,22 @@
+#first{
+    background-color: aqua;
+    padding: 15px;
+    height: 50px;
+    width: 400px;
+}
+
+#second{
+    background-color: aqua;
+    padding: 15px;
+    height: 50px;
+    width: 400px;
+    display: inline;
+}
+
+#third{
+    background-color: aqua;
+    padding: 15px;
+    height: 50px;
+    width: 400px;
+    display: inline-block;
+}

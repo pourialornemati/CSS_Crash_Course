@@ -1,0 +1,33 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    text-align: right;
+}
+
+td{
+    height: 50px;
+    vertical-align: bottom;
+}
+
+th, td{
+    padding: 25px;
+}
+
+tbody tr:nth-child(even){
+    background-color: aquamarine;
+}
+
+tbody tr:hover{
+    background-color: blueviolet;
+}
+
+div{
+    overflow-x: auto;
+}

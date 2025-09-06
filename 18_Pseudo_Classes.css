@@ -1,0 +1,17 @@
+#p1{
+    display: none;
+    background-color: orange;
+    padding: 20px;
+}
+
+#d1:hover #p1{
+    display: block;
+}
+
+p:nth-child(even){
+    background-color: red;
+}
+
+#myinput:focus{
+    background-color: gold;
+}

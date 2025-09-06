@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: red;
+    color: wheat;
+}
+
+#a1{
+    text-align: right;
+    background-color: purple;
+    color: wheat;
+}
+
+#d1{
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+/* This is Universal Selector:
+
+* {
+    color: red;
+} 
+
+*/
+
+/* This is Element Selector: */
+h2 {
+    color: green;
+}
+
+/* This is Group Selector: */
+h3, h4, h5 {
+    color: aqua;
+}
+
+/* This is ID Selector: */
+#TheP2 {
+    color: blueviolet;
+}
+
+/* This is Class Selector: */
+.ThePOdd {
+    color: deeppink;
+    font-size: 25px;
+}

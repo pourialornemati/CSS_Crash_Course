@@ -1,0 +1,37 @@
+input[type="text"]{
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid red;
+    width: 30%;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type="text"]:focus{
+    width: 100%;
+}
+
+textarea{
+    resize: none;
+}
+
+select{
+    width: 30%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: gold;
+    color: white;
+}
+
+input[type=button]{
+    cursor: pointer;
+    background-color: #e74c3c;
+    color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 4px 2px;
+    border: none;
+    font-size: 20px;
+}

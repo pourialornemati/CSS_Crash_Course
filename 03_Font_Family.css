@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Dirty;
+    src: url(Dirtylane.otf);
+}
+
+h1 {
+    font-family: Dirty;
+}

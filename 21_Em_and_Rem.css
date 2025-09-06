@@ -1,0 +1,27 @@
+body{
+    font-size: 20px;
+}
+
+#d1{
+    font-size: 1em;
+}
+
+#d2{
+    font-size: 2em;
+}
+
+:root{
+    font-size: 20px;
+}
+
+#d3{
+    font-size: 1rem;
+}
+
+#d4{
+    font-size: 2rem;
+}
+
+#d5{
+    font-size: 2rem;
+}
